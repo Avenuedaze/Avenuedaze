@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning:
   - Thermodynamics, Machine Design, Fluid Mechanics.
-  - Basic coding concepts.
+  - Basic python coding concepts for arduino.
 
 - 🤔 Looking to collaborate on:
   - Engineering projects in sustainable energy and advanced design.
