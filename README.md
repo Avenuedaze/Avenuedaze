@@ -1,12 +1,8 @@
 ##   Hello there, I'm Abigail Houtari 👋
 
 -   🔭   I’m currently working on:
-    -   Mechanical Engineering studies at the University of Washington.
-    -   Carbon fiber composite design for Bothell Formula Racing Development (Formula SAE).
-
--   🌱   I’m learning:
-    -   Dynamics, Engineering Stats, and Chassis design.
-    -   Basic Python code concepts for Arduino.
+    -   Mechanical Engineering Bachelor of Science degree at the University of Washington.
+    -   Formula SAE mechanical design with Bothell Racing Development.
 
 -   🤔   Looking to collaborate on opportunities to apply my technical skills in innovative solutions.
 
@@ -17,7 +13,6 @@
 
 -   📫   Reach me at:
     -   [LinkedIn](https://www.linkedin.com/in/abigailhoutari/)
-    -   [houtariabigail@gmail.com](mailto:houtariabigail@gmail.com)
-
+    
 -   ⚡   Fun fact:
-    -   I'm currently working on an RPGMaker VX Ace time capsule game with friends.
+    -   I'm currently working on an RPGMaker VX Ace time capsule game to memorialize our years at university.
